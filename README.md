@@ -1,5 +1,6 @@
 # Who Wants To Be a Millionaire
 ### Video Demo:  <https://www.youtube.com/watch?v=du7IrX6I970>
+### Developed in February, 2024
 
 ## Game description
 My final CS50p project is a rendition of the popular "Who Wants To Be a Millionaire" game quiz. The main difference between this project and other similar imitations of the game is that here both the input and the output takes place in the terminal.
