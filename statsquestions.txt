@@ -1,0 +1,45 @@
+CATEGORIES
+
+culture: 53
+geography: 32
+history: 58
+misc: 122
+nature: 54
+one: 63
+science: 29
+------------------------------
+SUB-CATEGORIES
+
+ : 40
+ancient: 6
+art/fashion: 9
+count: 7
+fauna: 13
+flora: 21
+food: 8
+human: 20
+literature: 13
+medieval: 10
+modern: 11
+movies: 27
+music: 13
+one: 63
+people: 23
+politics: 8
+religion/mythology: 14
+sport: 21
+sub-geography: 32
+sub-science: 29
+tech: 11
+usa: 12
+------------------------------
+DIFFICULTY
+
+1: 63
+2: 142
+3: 89
+4: 62
+5: 35
+6: 20
+------------------------------
+QUESTIONS: 411

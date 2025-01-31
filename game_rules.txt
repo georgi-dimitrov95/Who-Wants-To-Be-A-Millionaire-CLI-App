@@ -1,0 +1,21 @@
+
+1. This is a quiz game where the player has to correctly answer a series of multiple-choice questions with increasing difficulty in order to advance to the next level/question.
+
+2. There are 15 questions in total and each of them is worth a specific amount of money. No time constraints are present for answering a question.
+
+3. The first question gives a prize of $100 while the last one gets you $1,000,000! The question-prize table can be seen at the end of this ruleset.
+
+4. There are two guaranteed prize points. The first is fixed and is acquired after correctly answering the 5th question (for $1,000). The second one is determined by the player and can be chosen only once per game, but on any question the player desires.
+For example if the player correctly answers question 9, a prompt will appear asking if he/she wants to "lock" the next question (number 10) as the 2nd guaranteed prize point.
+After a while if the player fails on question 13 for example, he/she will win the 2nd guaranteed prize point (the prize for question 10 - $32,000).
+Only the upcoming question can be chosen as a 2nd guaranteed prize point and if the player fails to advance to that question, he/she will win the 1st fixed prize point.
+
+5. The player is allowed two lifelines that can be used at any point during the game. They can also be used in combination with each other. Each lifeline can only be used once per game.
+50/50 - removes two wrong answers from the multiple-choice selection, leaving only the correct and one wrong answer
+change question - presents another question with a similar difficulty instead of the initial one
+
+6. At any point during the game the player can choose to stop playing and walk away with the prize he/she has won at this point.
+
+7. The answers (A/B/C/D) can be typed both in lower and uppercase, but the other possible options to answer a question should be typed as follows (without the quotes): "50/50", "change question", "walkaway"
+
+9. At the end of each game you will be prompted to try another one. Good luck and have fun!
