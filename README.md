@@ -1,5 +1,6 @@
 # Who Wants To Be a Millionaire
 ### Video Demo:  <https://www.youtube.com/watch?v=du7IrX6I970>
+### Disclaimer: before starting the video lower your volume, the first 5 seconds are rather loud, apologies!
 ### Developed in February, 2024
 
 ## Game description
